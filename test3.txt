@@ -1,5 +1,9 @@
 new.html  test1.txt  test2.txt	test3.txt
 
+<<<<<<< HEAD
 Modifying to see what happens
 
 Adding some more content to this file in the master branch
+=======
+Modifying to see what happensadding new line to test3 after pulling
+>>>>>>> f243b4b0b0f2d05cb1f98d28469890d4f68a1284
